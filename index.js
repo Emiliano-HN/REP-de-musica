@@ -20,7 +20,7 @@ const songs = [
         artist: 'Frank Sark',
     },
     {
-        path: 'Sabor a mi.mp3',
+        path: 'Sabor a Mí.mp3',
         displayName: 'Sabor a Mí',
         cover: '2.jpg',
         artist: 'Los Panchos y Eydie Gormé',
